@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "BEN-XMD",
   "version": "2.4.0",
-  "description": "KANGO-XMD, the best WhatsApp Bot in Ghana",
+  "description": "BEN-XMD, the best WhatsApp Bot in KENYA",
   "logo": "https://i.imgur.com/GVW7aoD.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/official_kango/KANGO-XMD-V2.git",
@@ -17,27 +17,27 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "KANGO-XMD",
+      "value": "BEN-XMD",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "254727374449",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "BEN",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "KANGO",
+      "value": "BEN",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "KANGO",
+      "value": "BEN",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -47,12 +47,12 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter exactly the same app name you've entered above.",
-      "value": "",
+      "value": "BEN",
       "required": false
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Accra",
+      "value": "Africa/Nairobi",
       "required": false
     },
    "GITHUB_TOKEN": {
